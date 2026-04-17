@@ -1,0 +1,61 @@
+===== SERVER HEALTH REPORT =====
+Date: Fri Apr 17 11:57:06 UTC 2026
+
+---- CPU Usage ----
+Usage: 0.8%
+
+---- Memory Usage ----
+Used: 504Mi / Total: 5.6Gi
+
+---- Disk Usage ----
+Used: 349G / Total: 375G (94%)
+
+---- Uptime ----
+up 17 minutes
+
+---- Top Processes ----
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.1  0.2  21696 11988 ?        Ss   11:51   0:00 /sbin/init
+root          95  0.0  0.1  25144  6144 ?        Ss   11:51   0:00 /usr/lib/systemd/systemd-udevd
+root          40  0.0  0.2  50432 15744 ?        S<s  11:51   0:00 /usr/lib/systemd/systemd-journald
+root         200  0.0  0.3 107024 22400 ?        Ssl  11:51   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+===== SERVER HEALTH REPORT =====
+Date: Fri Apr 17 12:05:03 UTC 2026
+
+CPU Usage: 0%
+
+---- Memory Usage ----
+Used: 508Mi / Total: 5.6Gi
+
+---- Disk Usage ----
+Used: 349G / Total: 375G (94%)
+
+---- Uptime ----
+up 24 minutes
+
+---- Top Processes ----
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2  21696 11988 ?        Ss   11:52   0:00 /sbin/init
+root          95  0.0  0.1  25144  6144 ?        Ss   11:52   0:00 /usr/lib/systemd/systemd-udevd
+root          40  0.0  0.2  50432 15744 ?        S<s  11:52   0:00 /usr/lib/systemd/systemd-journald
+mahipal      338  0.0  0.1  20312 11264 ?        Ss   11:52   0:00 /usr/lib/systemd/systemd --user
+===== SERVER HEALTH REPORT =====
+Date: Fri Apr 17 12:10:07 UTC 2026
+
+CPU Usage: 0%
+
+---- Memory Usage ----
+Used: 506Mi / Total: 5.6Gi
+
+---- Disk Usage ----
+Used: 349G / Total: 375G (94%)
+
+---- Uptime ----
+up 29 minutes
+
+---- Top Processes ----
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2  21696 11988 ?        Ss   11:53   0:00 /sbin/init
+root          95  0.0  0.1  25144  6144 ?        Ss   11:53   0:00 /usr/lib/systemd/systemd-udevd
+root          40  0.0  0.2  50432 15744 ?        S<s  11:53   0:00 /usr/lib/systemd/systemd-journald
+mahipal      338  0.0  0.1  20312 11264 ?        Ss   11:53   0:00 /usr/lib/systemd/systemd --user
